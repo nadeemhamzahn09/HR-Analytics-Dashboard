@@ -1,4 +1,4 @@
-# HR-Analytics-Dashboard
+# HR-Analytics-Dashboard Using MYSQL & Power BI 
 HR Analytics Dashboard – MySQL + Power BI
 
 This project analyzes employee attrition and workforce patterns using the IBM HR dataset. The dataset was first cleaned and processed in MySQL and then visualized using Power BI to create an interactive HR analytics dashboard.
